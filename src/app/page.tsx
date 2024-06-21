@@ -3,7 +3,7 @@ import articalImage from "@/images/illustration-article.svg";
 import avatarImage from "@/images/image-avatar.webp";
 export default function Home() {
   return (
-    <main className="min-h-screen flex items-center justify-center bg-yellow-400 p-8">
+    <main className="min-h-screen flex items-center justify-center bg-[#f5d04e] p-8">
       <section className="relative group">
         {/* card component */}
         <div className="relative bg-white p-4 rounded-2xl border border-black flex flex-col gap-4 max-w-[365px] z-20">
@@ -20,7 +20,7 @@ export default function Home() {
           <p className="text-sm font-semibold text-gray-700">
             Published 24 Dec 2023
           </p>
-          <h2 className="hover:text-[#f5d04e] text-2xl font-bold">
+          <h2 className="hover:text-yellow-400 text-2xl font-bold">
             HTML & CSS foundations
           </h2>
           <p className="text-gray-400">
