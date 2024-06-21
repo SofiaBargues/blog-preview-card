@@ -20,7 +20,7 @@ export default function Home() {
           <p className="text-sm font-semibold text-gray-700">
             Published 24 Dec 2023
           </p>
-          <h2 className="hover:text-yellow-400 text-2xl font-bold">
+          <h2 className="hover:text-[#f5d04e] text-2xl font-bold">
             HTML & CSS foundations
           </h2>
           <p className="text-gray-400">
